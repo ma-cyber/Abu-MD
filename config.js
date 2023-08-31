@@ -20,7 +20,7 @@ module.exports = {
 
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
 
-  SESSION_ID: (process.env.SESSION_ID || '').trim(),
+  SESSION_ID: (process.env.SESSION_ID || 'jsl~a92eaLZvF271146e89c32803fb6c24ee5964').trim(),
 
   LANGUAGE: process.env.LANGUAGE || "EN",
 
@@ -46,7 +46,7 @@ module.exports = {
 
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
 
-  STICKER_DATA: process.env.STICKER_DATA || "Abu",
+  STICKER_DATA: process.env.STICKER_DATA || "Le Souverain",
 
   ACR_A: "ff489a0160188cf5f0750eaf486eee74",
 
