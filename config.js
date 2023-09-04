@@ -20,7 +20,7 @@ module.exports = {
 
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
 
-  SESSION_ID: (process.env.SESSION_ID || 'jsl~aa60765mi62af7c9afd8fa77211a35396994').trim(),
+  SESSION_ID: (process.env.SESSION_ID || 'jsl~982975gSF5cc2882bda907e3ee5cf4ef900d').trim(),
 
   LANGUAGE: process.env.LANGUAGE || "EN",
 
