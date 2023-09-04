@@ -20,7 +20,7 @@ module.exports = {
 
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
 
-  SESSION_ID: (process.env.SESSION_ID || 'jsl~a92eaLZvF271146e89c32803fb6c24ee5964').trim(),
+  SESSION_ID: (process.env.SESSION_ID || 'jsl~aa60765mi62af7c9afd8fa77211a35396994').trim(),
 
   LANGUAGE: process.env.LANGUAGE || "EN",
 
@@ -46,13 +46,13 @@ module.exports = {
 
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
 
-  STICKER_DATA: process.env.STICKER_DATA || "Le Souverain",
+  STICKER_DATA: process.env.STICKER_DATA || "Abu",
 
   ACR_A: "ff489a0160188cf5f0750eaf486eee74",
 
   ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
 
-  SUDO: process.env.SUDO || "917025994178",
+  SUDO: process.env.SUDO || "50946701791",
 
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
 
